@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+
+# Editors
+.idea/
+.vscode/
+
+# Local configuration and secrets
+.env
+*.local
