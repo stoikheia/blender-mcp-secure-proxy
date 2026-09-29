@@ -1,4 +1,4 @@
-# blender-mcp-proxy
+# blender-mcp-secure-proxy
 
 A policy-enforcing proxy that sits in front of a Blender MCP server.
 
